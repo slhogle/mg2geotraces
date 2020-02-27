@@ -8,7 +8,8 @@ Also calculates the Deep Chloropyll Maximum depth at each geographic location an
 
 ## ATTRIBUTION
 
-If any of this code is helpful for you please consider citing this repository.
+If any of this code is helpful for you please consider citing this repository. [![DOI](https://zenodo.org/badge/243473977.svg)](https://zenodo.org/badge/latestdoi/243473977)
+
 
 If you use any of the data mentioned or described in this repository it is ESSENTIAL!! that you properly cite the data sources. These include (but are not limited to):
 
@@ -38,16 +39,20 @@ To match internal sample identifiers (in form `S0031`) to actual NCBI sequence r
 
 ### SECTION GA02
 [Match metagenomes to bottle data](bottle2mg/bin/geotraces_GA02_bottle_tidier.md)
+
 [Match metagenomes to the DCM](CTD2mg/bin/geotraces_GA02_CTD_tidier.md)
 
 ### SECTION GA03
 [Match metagenomes to bottle data](bottle2mg/bin/geotraces_GA03_bottle_tidier.md)
+
 [Match metagenomes to the DCM](CTD2mg/bin/geotraces_GA03_CTD_tidier.md)
 
 ### SECTION GA10
 [Match metagenomes to bottle data](bottle2mg/bin/geotraces_GA10_bottle_tidier.md)
+
 [Match metagenomes to the DCM](CTD2mg/bin/geotraces_GA10_CTD_tidier.md)
 
 ## SECTION GP13
 [Match metagenomes to bottle data](bottle2mg/bin/geotraces_GP13_bottle_tidier.md)
+
 [Match metagenomes to the DCM](CTD2mg/bin/geotraces_GP13_CTD_tidier.md)
