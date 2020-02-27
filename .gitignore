@@ -1,8 +1,3 @@
-/results/**
-/GEOTRACES_IDP2017_v2_Discrete_Sample_Data/**
-/GEOTRACES_IDP2017_v2_Aerosol_Rain_Data/**
-/GEOTRACES_IDP2017_v1_CTD_Sensor_Data/**
-
 /CTD2mg/*.tsv
 /bottle2mg/*.tsv
 
